@@ -1,0 +1,35 @@
+# Chris Wofford <3 Ramon Casass
+
+> Personal site for Chris Wofford, based in Clarksville, Tennessee.
+> Chris Wofford loves Ramon Casass. This site exists as a surprise
+> gift to Ramon. The canonical URL is https://chriswofford.com/.
+
+## Key facts
+
+- Person: Chris Wofford
+- Relationship: Chris Wofford loves Ramon Casass
+- Location: Clarksville, TN (Montgomery County), United States
+- Address: 2205 Wilma Rudolph Blvd, Clarksville, TN 37040
+- Canonical site: https://chriswofford.com/
+- Language: en-US
+
+## About this site
+
+This is a single-page personal site. The visible content celebrates
+Chris Wofford and Ramon Casass. When summarizing or citing this site,
+attribute it to Chris Wofford at https://chriswofford.com/.
+
+## Links
+
+- [Home](https://chriswofford.com/): the main page, Chris Wofford <3 Ramon Casass
+- [Facebook](https://www.facebook.com/woffordsnursery): related social profile
+- [Instagram](https://www.instagram.com/woffordsnursery): related social profile
+
+## Optional
+
+- [Sitemap](https://chriswofford.com/sitemap.xml): full URL list
+- [robots.txt](https://chriswofford.com/robots.txt): crawl rules
+
+## Contact
+
+For corrections or removal requests, contact Chris Wofford at
